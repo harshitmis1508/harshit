@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('heart.jpg');
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 10px;
+    box-shadow: 0 15px 110px rgba(200, 14, 100, 0.8);
+
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+main {
+    text-align: justify;
+}
+
+footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.heart {
+    color: red;
+}
+
+.hug {
+    text-align: right;
+    margin-left: 5px;
+    position: relative;
+    right: 46px;
+}
